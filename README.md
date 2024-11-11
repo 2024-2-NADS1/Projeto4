@@ -19,7 +19,7 @@
 </p>
 
 
-DESCRIÇÃO DO PROJETO
+## DESCRIÇÃO DO PROJETO
 # Capacete Inteligente com Sistema de Socorro Automático via IoT
 
 Este projeto propõe o desenvolvimento de um **capacete inteligente** com **sistema de socorro automático**, utilizando tecnologias de **Internet das Coisas (IoT)**. O objetivo principal é proporcionar segurança em atividades de risco, como motociclismo, ciclismo e construção civil, detectando quedas ou acidentes e enviando alertas automáticos para serviços de emergência ou contatos de urgência.
