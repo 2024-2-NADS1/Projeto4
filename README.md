@@ -58,49 +58,62 @@ A pasta raiz contem dois arquivos que devem ser alterados:
 <bR>•Telegram</br>
 
 ## 🛠 Instalação Telegram 
-<br> Instalar Telegram no Smartphone (Android ou iOS)
-No Android:
-Abra a Google Play Store no seu dispositivo.
-Na barra de pesquisa, digite "Telegram" e selecione o aplicativo oficial (geralmente o primeiro resultado).
-Toque no botão Instalar.
-Após a instalação, abra o aplicativo.
-Crie uma conta ou entre com sua conta existente usando o número de telefone.
-Siga as instruções para configurar seu perfil e começar a usar o Telegram.
-No iOS (iPhone):
-Abra a App Store no seu iPhone.
-Na barra de pesquisa, digite "Telegram" e selecione o aplicativo oficial.
-Toque no botão Obter para iniciar o download e a instalação.
-Após a instalação, abra o aplicativo.
-Crie uma conta ou entre com sua conta existente, usando o número de telefone.
-Configure seu perfil e pronto, você está pronto para usar o Telegram.
-2. Instalar Telegram no Computador (Windows, Mac ou Linux)
-No Windows (PC):
-Acesse o site oficial do Telegram.
-Clique no botão "Get Telegram for Windows" (Obter Telegram para Windows).
-Após o download, abra o arquivo executável (.exe) para iniciar a instalação.
-Siga as instruções do assistente de instalação para concluir.
-Após a instalação, abra o Telegram no seu PC e entre com o número de telefone para sincronizar com sua conta.
-No Mac:
-Acesse o site oficial do Telegram ou baixe o Telegram diretamente na Mac App Store.
-Caso opte pelo site, clique em "Get Telegram for macOS".
-Após o download, abra o arquivo .dmg e arraste o Telegram para a pasta Aplicativos.
-Abra o Telegram a partir da pasta Aplicativos e faça login com seu número de telefone.
-No Linux:
-Acesse o site oficial do Telegram.
-Escolha a versão para Linux e baixe o arquivo correspondente ao seu sistema.
-Descompacte o arquivo em seu diretório desejado e siga as instruções específicas para a instalação (geralmente usando o terminal).
-3. Usar Telegram na Web (versão Web)
-Se você não quer instalar o Telegram no seu dispositivo, também pode usar o Telegram diretamente no navegador:
 
-Acesse a versão web do Telegram em: https://web.telegram.org.
-Faça login com seu número de telefone.
-Você pode usar o Telegram diretamente no seu navegador sem a necessidade de instalação.
-4. Telegram para Outros Dispositivos
-Telegram também tem versões para tablets e smart TVs. Para esses dispositivos, basta buscar o aplicativo nas lojas correspondentes (Google Play Store ou App Store) e seguir as instruções para instalação.
+Este guia fornece instruções para instalar o **Telegram** em diferentes dispositivos, incluindo smartphones (Android e iOS), computadores (Windows, macOS e Linux) e na versão web.
 
-Dicas após a instalação:
-Sincronização entre dispositivos: O Telegram sincroniza automaticamente as suas mensagens entre todos os dispositivos em que você estiver logado, então você pode acessar suas conversas de qualquer lugar.
-Configuração de segurança: Se necessário, ative a autenticação de dois fatores para aumentar a segurança da sua conta. </br>
+## 1. Instalar Telegram no Smartphone
+
+### No Android:
+1. Abra a **Google Play Store** no seu dispositivo.
+2. Na barra de pesquisa, digite **"Telegram"** e selecione o aplicativo oficial (geralmente o primeiro resultado).
+3. Toque no botão **Instalar**.
+4. Após a instalação, abra o aplicativo.
+5. **Crie uma conta** ou entre com sua conta existente usando o número de telefone.
+6. Siga as instruções para configurar seu perfil e começar a usar o Telegram.
+
+### No iOS (iPhone):
+1. Abra a **App Store** no seu iPhone.
+2. Na barra de pesquisa, digite **"Telegram"** e selecione o aplicativo oficial.
+3. Toque no botão **Obter** para iniciar o download e a instalação.
+4. Após a instalação, abra o aplicativo.
+5. **Crie uma conta** ou entre com sua conta existente usando o número de telefone.
+6. Configure seu perfil e pronto, você está pronto para usar o Telegram.
+
+## 2. Instalar Telegram no Computador
+
+### No Windows (PC):
+1. Acesse o [site oficial do Telegram](https://desktop.telegram.org/).
+2. Clique no botão **"Get Telegram for Windows"** (Obter Telegram para Windows).
+3. Após o download, abra o arquivo executável `.exe` para iniciar a instalação.
+4. Siga as instruções do assistente de instalação.
+5. Após a instalação, abra o Telegram no seu PC e entre com o número de telefone para sincronizar com sua conta.
+
+### No macOS:
+1. Acesse o [site oficial do Telegram](https://desktop.telegram.org/) ou baixe o Telegram diretamente na **Mac App Store**.
+2. Caso opte pelo site, clique em **"Get Telegram for macOS"**.
+3. Após o download, abra o arquivo `.dmg` e arraste o Telegram para a pasta **Aplicativos**.
+4. Abra o Telegram a partir da pasta **Aplicativos** e faça login com seu número de telefone.
+
+### No Linux:
+1. Acesse o [site oficial do Telegram](https://desktop.telegram.org/).
+2. Escolha a versão para **Linux** e baixe o arquivo correspondente ao seu sistema.
+3. Descompacte o arquivo em seu diretório desejado e siga as instruções específicas para a instalação (geralmente usando o terminal).
+
+## 3. Usar Telegram na Web
+
+Se você não quer instalar o Telegram no seu dispositivo, você pode usar a versão web diretamente no seu navegador:
+
+1. Acesse [https://web.telegram.org](https://web.telegram.org).
+2. Faça login com seu número de telefone.
+3. Agora você pode usar o Telegram diretamente no seu navegador.
+
+## 4. Telegram em Outros Dispositivos
+
+O Telegram também está disponível para **tablets** e **smart TVs**. Basta procurar o aplicativo na loja correspondente (Google Play Store ou App Store) e seguir as instruções para instalação.
+
+## Dicas após a instalação:
+- **Sincronização entre dispositivos**: O Telegram sincroniza automaticamente as suas mensagens entre todos os dispositivos em que você 
+
 
 
 
