@@ -4,9 +4,9 @@
 <a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
 </p>
 
-# Projeto Baseado nos Objetivos de Desenvolvimento Sustentável para 
+# Projeto Baseado nos Objetivos de Desenvolvimento Sustentável Sistema de Socorro Automático.
 
-## 
+## S.S.A
 
 ## Integrantes: <a href=
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz</a>.
@@ -56,12 +56,12 @@ Há também 4 pastas que seguem da seguinte forma:
 
 <br>🛠 Hardware</br>
  <br>•	ESP32</br>
- <br>•	Sensor ultrassônico </br>
+ <br>•	Sensor MPU 6050 </br>
  <br>•	Protoboard e Jumpers</br>
- <br>•	Recipiente (Reservatório) </br>
+ <br>•	Sensoe de Vibração SW - 420</br>
 <br>💻  Software:</br>
  <br>•	Arduino IDE</br>
- <br>•	Conta no Blynk IOT (para transmissão de dados)</br>
+ <br>•	Telegram </br>
  
 
 ## 🛠 Instalação Arduino IDE
