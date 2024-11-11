@@ -14,7 +14,7 @@
  
 <p align="center">
 <img src="imagens/ft120.jpeg" alt="NOME DO JOGO" border="0">
-  Projeto desenvolvido por: <a href="https://www.linkedin.com/in/caio-gomes-889178248/">Caio dos Santos Gomes</a>, <a href="https://www.linkedin.com/in/eduardo-sturm-599a45223/">Eduardo Sturm</a>, <a href="">Eduardo Stradiotto</a>, <a href="">João Pedro Holanda</a>.
+  Projeto desenvolvido por: <a href="https://www.linkedin.com/in/caio-gomes-889178248/">Caio dos Santos Gomes</a>, <a href="https://www.linkedin.com/in/eduardo-sturm-599a45223/">Eduardo Sturm</a>, <a href="">Eduardo Stradiotto</a> e <a href="">João Pedro Holanda</a>.
 
 </p>
 
