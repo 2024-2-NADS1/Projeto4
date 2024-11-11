@@ -10,11 +10,11 @@
 
 ## Integrantes: <a href="https://www.linkedin.com/in/caio-gomes-889178248/">Caio dos Santos Gomes</a>, <a href="https://www.linkedin.com/in/eduardo-sturm-599a45223/">Eduardo Sturm</a>, <a href="">Eduardo Stradiotto</a>, <a href="">João Pedro Holanda</a>.
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno</a>, <a href="https://www.linkedin.com/in/adriano-valente-534576135/"> Adriano Felix Valente</a>.
+## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno</a>.
  
 <p align="center">
 <img src="imagens/ft120.jpeg" alt="NOME DO JOGO" border="0">
-  Projeto desenvolvido por: <a href="https://www.linkedin.com/in/jos%C3%A9-almeida-80063a256/">José Bento</a>, <a href="https://www.linkedin.com/in/gabrielly-cintra/">Gabrielly Cintra</a>, <a href="https://www.linkedin.com/in/felipe-andradet/">Felipe de Andrade</a>, <a href="https://www.linkedin.com/in/vinicius-kingo-1b769030a/">Vinicius Kingo</a>.
+  Projeto desenvolvido por: <a href="https://www.linkedin.com/in/caio-gomes-889178248/">Caio dos Santos Gomes</a>, <a href="https://www.linkedin.com/in/eduardo-sturm-599a45223/">Eduardo Sturm</a>, <a href="">Eduardo Stradiotto</a>, <a href="">João Pedro Holanda</a>.
 
 </p>
 
@@ -22,14 +22,7 @@
 DESCRIÇÃO DO PROJETO
 .
 <br><br>
-O projeto "Sistema de Detecção e Alerta de Vazamentos em Tanques de Agricultura" foi
-desenvolvido para abordar um problema significativo enfrentado pelos agricultores e pela
-indústria agrícola: vazamentos em tanques de armazenamento agrícola. Estes vazamentos
-podem resultar em danos ambientais, contaminação do solo e da água, além de causar
-perdas econômicas substanciais. Tendo como objetivo principal deste projeto é promover
-uma gestão agrícola mais segura, sustentável e responsável por meio da implementação de
-um sistema eficiente de detecção e alerta de vazamentos em tanques de armazenamento
-agrícola.
+O projeto consiste em um capacete inteligente integrado com um sistema de Internet das Coisas (IoT) que tem como objetivo proporcionar segurança e agilidade no atendimento a acidentes, especialmente em atividades de risco, como motociclismo, ciclismo ou construção civil. O capacete é equipado com sensores e dispositivos conectados à rede, permitindo a detecção de quedas ou impactos significativos.
 <br><br>
 ## 🛠 Estrutura de pastas
 
@@ -53,11 +46,12 @@ A pasta raiz contem dois arquivos que devem ser alterados:
 ## 🛠 Equipamentos utilizados
 
 🛠 Hardware
-<br>•ESP32;</br>
-<br>•Sensor ultrassônico;</br>
-<br>•Protobord;</br>
-<br>•Pequeno reservatório de 3 Litros;</br>
+<br>•ESP32</br>
+<br>•Sensor MPU 6050</br>
+<br>•Sensor de Vibração SW-420</br>
+<br>•Protobord</br>
 <br>•Jumpers Macho e Fêmea.</br>
+<br>•Componentes.</br>
 
 🛠 Software 
 <bR>•Arduino IDE</br>
