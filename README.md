@@ -8,7 +8,7 @@
 
 ## 
 
-## Integrantes: <a href="https://www.linkedin.com/in/caio-dantas-5bb171329/">Caio Dantas Farias  </a>, <a href="https://www.linkedin.com/in/eduardo-araujo-33a1a2278/">Eduardo Araujo de Oliveira	</a>, <a href="https://www.linkedin.com/in/saulo-santos-a1ba86334/">Saulo Ribeiro Santos	</a>. 
+## Integrantes: <a href=
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz</a>.
 
 ## ✏ Introdução
@@ -26,17 +26,7 @@
 ![projeto](https://github.com/2024-1-NADS1-A/Projeto9/assets/108402431/77769b33-ea85-45f6-8d60-2b78828086df)
 
 
-<p align="center">
-<img src="![projeto](https://github.com/2024-1-NADS1-A/Projeto9/assets/108402431/77769b33-ea85-45f6-8d60-2b78828086df)" border="0">
-  <a> Feito por: <a> <a href="https://www.linkedin.com/in/caio-dantas-5bb171329/">Caio Dantas Farias </a>, <a href="https://www.linkedin.com/in/eduardo-araujo-33a1a2278/">Eduardo Araujo de Oliveira</a>,<a href="https://www.linkedin.com/in/saulo-santos-a1ba86334/">Saulo Ribeiro Santos	</a>.
-</p>
 
-
-O aumento das enchentes em áreas de risco representa uma séria ameaça à segurança das populações e à sustentabilidade das cidades. Para enfrentar esse desafio, propomos a implementação de um sistema de monitoramento de enchentes utilizando tecnologia IoT (Internet das Coisas), utilizando ESP32, sensores ultrassônicos para medir os níveis de água e outros componentes elétricos para desenvolver.
-
-Esse sistema permitirá uma avaliação contínua dos riscos de enchentes, fornecendo dados em tempo real sobre os níveis de água em áreas críticas. As informações serão transmitidas para a plataforma Blynk IoT, que permitirá o monitoramento remoto. A interface do Blynk fornecerá uma visualização acessível e intuitiva, tanto para autoridades quanto para a população, permitindo que eles acompanhem as variações nos níveis de água e identifiquem possíveis riscos de enchimento com
-
-Além de oferecer dados cruciais para a gestão de emergências, o projeto tem como objetivo promover a conscientização sobre a importância da prevenção de desastres naturais. Espera-se que essas informações auxiliem na criação de políticas públicas mais eficazes e em estratégias de planejamento urbano voltadas para a redução dos impactos das enchentes em áreas vulneráveis. Com isso, buscamos minimizar os danos.
 
 
 ## 🛠 Estrutura de pastas
