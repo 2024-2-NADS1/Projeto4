@@ -8,7 +8,9 @@
 
 ## S.S.A
 
-## Integrantes: <a href=
+<p align="center">
+  Projeto desenvolvido por: <a href="">José BentoCaio dos Santos Gomes</a>, <a href="">Eduardo Sturm </a>, <a href="">Eduardo Stradiotto Bagagi</a>, <a href="">João Pedro Hoalnda</a>.
+
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz</a>.
 
 ## ✏ Introdução
