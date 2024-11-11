@@ -55,20 +55,11 @@ A pasta raiz contem dois arquivos que devem ser alterados:
 
 🛠 Software 
 <bR>•Arduino IDE</br>
-<bR>•Blynk</br>
+<bR>•Telegram</br>
 
-## 🛠 Instalação Blynk 
-<br>• Entre no site do Blykn e faça login:https://blynk.io/</br>
-<br>• Crie um novo projeto e obtenha as credenciais com o token de autenticação;</br>
-<br>• No código do ESP32 inclua a biblioteca do Blynk e insira as credenciais;</br>
-<br>• Estabeleça a conexão com o servidor do Blynk;</br>
-<br>• Configure os pinos virtuais;</br>
-<br>• Com a conexão, integre o ESP32 ao Blynk;</br>
-<br>• Coloque o ESP32 online;</br>
-<br>• Execute atualizações de firmaware OTA;</br>
-<br>• Contrua a Interface;</br>
-<br>• Configure o modelo, alertas, notificações e automações;</br>
-<br>• Após todas as etapas a integração e interface estará pronta.</br>
+## 🛠 Instalação Telegram 
+<br>• </br>
+
 
 
 ## 🛠 Instalação Arduino IDE
@@ -90,28 +81,24 @@ https://dl.espressif.com/dl/package_esp32_index.json
 
 A cada atualização os detalhes devem ser lançados aqui.
 
-* 0.1.1 - 10/04/2024
+* 0.1.1 - 10/10/2024
     * Planejamento do projeto e aquisição dos materiais
-* 0.1.2 - 3/05/2024
+* 0.1.2 - 23/10/2024
     * Inicio da construção do código e do circuito 
-* 0.1.3 - 10/05/2024
-    * Integração do Esp32 com o Blynk
- * 0.1.4 - 20/05/2024
+* 0.1.3 - 09/11/2024
+    * Integração do Esp32 com o Telegram
+ * 0.1.4 - 13/11/2024
     * Organização do github e fichas do projeto
- * 0.1.5 - 22/05/2024
+ * 0.1.5 - 16/11/2024
     *Últimos testes do sensor e aplicativo
 
 
 ## 📋 Licença/License
 
-<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/orgs/2024-1-NADS1-A/teams/grupo4/members">BlueFuture</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/orgs/2024-1-NADS1-A/teams/grupo4/members">FECAP, Felipe Andrade, José Bento, Gabrielly Cintra, Vinicius Kingo</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
+
 
 ## 🎓 Referências
 
 Aqui estão as referências usadas no projeto.
 
-1. <https://www.youtube.com/watch?v=Iuxl0k4lnqA&t=310s>
-2. <https://youtube.com/shorts/3dVehESr_Ko?si=J7_kgNSpMMvMzoxJ>
-3. <https://blog.eletrogate.com/controlando-componentes-com-o-esp32-e-o-blynk/>
-4. <https://www.circuito.io/app?components=513,13959,360217>
-5. <https://blynk.io/blog/esp32-blynk-iot-platform-for-your-connected-product>
+1. 
