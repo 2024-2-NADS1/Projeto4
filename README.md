@@ -20,10 +20,35 @@
 
 
 DESCRIÇÃO DO PROJETO
-.
-<br><br>
-O projeto consiste em um capacete inteligente integrado com um sistema de Internet das Coisas (IoT) que tem como objetivo proporcionar segurança e agilidade no atendimento a acidentes, especialmente em atividades de risco, como motociclismo, ciclismo ou construção civil. O capacete é equipado com sensores e dispositivos conectados à rede, permitindo a detecção de quedas ou impactos significativos.
-<br><br>
+# Capacete Inteligente com Sistema de Socorro Automático via IoT
+
+Este projeto propõe o desenvolvimento de um **capacete inteligente** com **sistema de socorro automático**, utilizando tecnologias de **Internet das Coisas (IoT)**. O objetivo principal é proporcionar segurança em atividades de risco, como motociclismo, ciclismo e construção civil, detectando quedas ou acidentes e enviando alertas automáticos para serviços de emergência ou contatos de urgência.
+
+## Componentes Principais
+
+- **Sensores de Impacto e Movimento**: Equipado com acelerômetros e giroscópios para detectar quedas, colisões ou mudanças bruscas na posição do usuário.
+- **Módulo de Comunicação**: Utilização de tecnologias como **GSM** ou **Wi-Fi** para enviar dados em tempo real.
+- **GPS Integrado**: Para determinar a localização exata do usuário em caso de acidente e compartilhá-la com os socorristas.
+- **Bateria Recarrregável**: Garante o funcionamento do dispositivo por longos períodos sem necessidade de recarga constante.
+- **Alarme Sonoro e Visual**: Emitido automaticamente após a detecção de um impacto, para alertar pessoas ao redor e aumentar a visibilidade do usuário.
+
+## Funcionamento
+
+1. **Detecção de Acidente**: O capacete monitora constantemente os dados dos sensores. Se um impacto significativo for detectado, ele verifica os parâmetros para confirmar se ocorreu um acidente (por exemplo, perda de movimento ou alteração na posição).
+2. **Envio de Alerta**: Caso o acidente seja confirmado, o sistema envia uma mensagem com a **localização GPS** do usuário para **contatos de emergência** ou diretamente para **serviços de socorro**.
+3. **Respostas Automáticas**: O sistema tenta uma confirmação do usuário (por exemplo, por meio de um botão ou detecção de movimento). Se o usuário não responder, o alerta continua sendo enviado automaticamente até que a ajuda chegue.
+
+## Benefícios
+
+- **Segurança Aumentada**: O sistema permite uma resposta imediata a situações de emergência, especialmente em locais isolados ou de difícil acesso.
+- **Agilidade no Atendimento**: A comunicação automatizada reduz o tempo de resposta dos socorristas.
+- **Autonomia**: O usuário não precisa interagir diretamente com o sistema, permitindo que ele fique protegido mesmo em situações onde não pode agir.
+- **Possibilidade de Integração**: O sistema pode ser expandido para se integrar com **outros dispositivos IoT**, como smartphones e dispositivos de saúde, criando uma rede de segurança mais robusta.
+
+## Objetivo
+
+Utilizar a tecnologia **IoT** para criar um ambiente mais seguro para atividades de risco, proporcionando uma ajuda rápida e eficiente em caso de acidentes, e oferecendo uma solução inteligente de prevenção e socorro.
+
 ## 🛠 Estrutura de pastas
 
 -Raiz<br>
