@@ -11,9 +11,10 @@
 ## Integrantes: <a href="https://www.linkedin.com/in/caio-gomes-889178248/">Caio dos Santos Gomes</a>, <a href="https://www.linkedin.com/in/eduardo-sturm-599a45223/">Eduardo Sturm</a>, <a href="">Eduardo Stradiotto</a>, <a href="">João Pedro Holanda</a>.
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno</a>.
- 
-<p align="center">
-<img src="![Imagem do WhatsApp de 2024-11-15 à(s) 20 51 08_87e05c75](https://github.com/user-attachments/assets/44d26473-4258-41ae-a19c-a871c5d64933)
+
+ <p align="center">
+<img src="![Imagem do WhatsApp de 2024-11-15 à(s) 20 51 08_8c819f2c](https://github.com/user-attachments/assets/20f7448b-190d-4b04-8835-a800d50a40cf)
+" alt="NOME DO JOGO" border="0">
 
   Projeto desenvolvido por: <a href="https://www.linkedin.com/in/caio-gomes-889178248/">Caio dos Santos Gomes</a>, <a href="https://www.linkedin.com/in/eduardo-sturm-599a45223/">Eduardo Sturm</a>, <a href="">Eduardo Stradiotto</a> e <a href="">João Pedro Holanda</a>.
 
