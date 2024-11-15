@@ -15,7 +15,7 @@
  
 <p align="center">
 <img src="![Imagem do WhatsApp de 2024-11-15 à(s) 20 51 08_4ca530e3](https://github.com/user-attachments/assets/8ac0a8b1-33a2-433b-bf05-ec8d5ba18691)
-" alt="NOME DO JOGO" border="0">
+
   Projeto desenvolvido por: <a href="https://www.linkedin.com/in/caio-gomes-889178248/">Caio dos Santos Gomes</a>, <a href="https://www.linkedin.com/in/eduardo-sturm-599a45223/">Eduardo Sturm</a>, <a href="">Eduardo Stradiotto</a> e <a href="">João Pedro Holanda</a>.
 
 </p>
