@@ -11,12 +11,16 @@
 ## Integrantes: <a href="https://www.linkedin.com/in/caio-gomes-889178248/">Caio dos Santos Gomes</a>, <a href="https://www.linkedin.com/in/eduardo-sturm-599a45223/">Eduardo Sturm</a>, <a href="">Eduardo Stradiotto</a>, <a href="">João Pedro Holanda</a>.
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno</a>.
-
 <p align="center">
-<img src="![Imagem do WhatsApp de 2024-11-15 à(s) 20 51 08_a8ed1a64](https://github.com/user-attachments/assets/7831fde1-d402-4f7d-92d9-144992e62da9)" border="0">
+  <img src="https://github.com/user-attachments/assets/7831fde1-d402-4f7d-92d9-144992e62da9" alt="Imagem do Projeto" border="0">
+</p>
 
-  Projeto desenvolvido por: <a href="https://www.linkedin.com/in/caio-gomes-889178248/">Caio dos Santos Gomes</a>, <a href="https://www.linkedin.com/in/eduardo-sturm-599a45223/">Eduardo Sturm</a>, <a href="">Eduardo Stradiotto</a> e <a href="">João Pedro Holanda</a>.
+### Desenvolvido por:
 
+- [Caio dos Santos Gomes](https://www.linkedin.com/in/caio-gomes-889178248/)
+- [Eduardo Sturm](https://www.linkedin.com/in/eduardo-sturm-599a45223/)
+- [Eduardo Stradiotto](#)
+- [João Pedro Holanda](#)
 </p>
 
 
