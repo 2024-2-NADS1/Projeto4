@@ -37,24 +37,24 @@ Este projeto propõe o desenvolvimento de um **capacete inteligente** com **sist
 - **Bateria Recarrregável**: Garante o funcionamento do dispositivo por longos períodos sem necessidade de recarga constante.
 - **Alarme Sonoro e Visual**: Emitido automaticamente após a detecção de um impacto, para alertar pessoas ao redor e aumentar a visibilidade do usuário.
 
-## Funcionamento
+##  Funcionamento
 
 1. **Detecção de Acidente**: O capacete monitora constantemente os dados dos sensores. Se um impacto significativo for detectado, ele verifica os parâmetros para confirmar se ocorreu um acidente (por exemplo, perda de movimento ou alteração na posição).
 2. **Envio de Alerta**: Caso o acidente seja confirmado, o sistema envia uma mensagem com a **localização GPS** do usuário para **contatos de emergência** ou diretamente para **serviços de socorro**.
 3. **Respostas Automáticas**: O sistema tenta uma confirmação do usuário (por exemplo, por meio de um botão ou detecção de movimento). Se o usuário não responder, o alerta continua sendo enviado automaticamente até que a ajuda chegue.
 
-## Benefícios
+##  Benefícios
 
 - **Segurança Aumentada**: O sistema permite uma resposta imediata a situações de emergência, especialmente em locais isolados ou de difícil acesso.
 - **Agilidade no Atendimento**: A comunicação automatizada reduz o tempo de resposta dos socorristas.
 - **Autonomia**: O usuário não precisa interagir diretamente com o sistema, permitindo que ele fique protegido mesmo em situações onde não pode agir.
 - **Possibilidade de Integração**: O sistema pode ser expandido para se integrar com **outros dispositivos IoT**, como smartphones e dispositivos de saúde, criando uma rede de segurança mais robusta.
 
-## Objetivo
+##  Objetivo
 
 Utilizar a tecnologia **IoT** para criar um ambiente mais seguro para atividades de risco, proporcionando uma ajuda rápida e eficiente em caso de acidentes, e oferecendo uma solução inteligente de prevenção e socorro.
 
-## 🛠 Estrutura de pastas
+## 🛠  Estrutura de pastas
 
 -Raiz<br>
 |<br>
@@ -73,7 +73,7 @@ A pasta raiz contem dois arquivos que devem ser alterados:
 
 <b>imagens</b>: Imagens do sistema.
 
-## 🛠 Equipamentos utilizados
+## 🛠  Equipamentos utilizados
 
 🛠 Hardware
 <br>•ESP32</br>
